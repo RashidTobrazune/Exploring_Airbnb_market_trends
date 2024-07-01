@@ -29,6 +29,8 @@ Tasks
 
 
     Insights
+first_reviewed last_reviewed  nb_private_rooms  avg_price
+0     2019-01-01    2019-07-09             11356     141.78
 
    
 
